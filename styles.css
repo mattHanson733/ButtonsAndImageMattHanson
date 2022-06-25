@@ -1,0 +1,42 @@
+button {
+	background-color: green;
+    color: white;
+    margin: 10px;
+    order: 2;
+}
+
+p {
+	font-family: monospace;
+    font-size: 16px;
+    margin: 10px;
+}
+
+.message-1 {
+	border: orange solid 3px;
+    padding: 5px;
+    order: 1;
+}
+
+.message-2 {
+	order: 3;
+}
+
+img {
+    border: LightBlue solid 5px;
+    display: block;
+    margin: auto;
+}
+
+.three-tags {
+	display: flex;
+    justify-content: center;
+}
+
+img {
+	display: block;
+    margin: auto;
+}
+
+.hidden-text {
+	text-align: center;
+}
